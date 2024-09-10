@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhanupratap045
 - 👀 I’m interested in Desining & arts
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  Ui/ Ux skills
 - 💞️ I’m looking to collaborate on Behance and linkedin
 - 📫 How to reach me Email through
 - 😄 Pronouns: ...
