@@ -67,7 +67,7 @@ Use any of these iconic Indian locations to complement the traditional outfit:
 
 ## Usage Tips
 
-- Provide your **reference product image** alongside this prompt for best results in image-to-image AI tools (e.g., Midjourney, Stable Diffusion, Adobe Firefly, DALL·E).
+- Provide your **reference product image** alongside this prompt for best results in image-to-image AI tools that support reference images (e.g., Midjourney with `--cref`, Stable Diffusion img2img, Adobe Firefly, or Leonardo AI).
 - Specify your preferred background theme from the table above if you want a targeted location.
 - Use the **negative prompt** to suppress unwanted elements.
 - For aspect ratio, always set **3:4** (portrait orientation) so the full outfit is visible from head to toe.
