@@ -1,5 +1,29 @@
 # AI Fashion Photoshoot Prompt — Indian Ethnic Wear (Kurti / Dupatta / Pant)
 
+## ⭐ Ultimate Combined Master Prompt (All Styles — Best Results)
+
+> Copy this single prompt and paste it into any AI image tool along with your reference product image.
+
+**Prompt:**
+
+Create an ultra-realistic, high-quality, cinematic luxury outdoor fashion photoshoot image of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every detail of the outfit including embroidery, stitching, fabric texture, colors, and patterns without any change. Automatically analyze the outfit: if it is traditional, select the most beautiful and complementary Indian outdoor heritage location as the background — such as a heritage palace, royal fort, stone arches, ancient Mughal courtyard, temple steps, ornate city street with carved walls, or a lush royal garden.
+
+The model should have **natural Indian facial features**, a real and confident expression, graceful front-facing full-body pose, clear eyes, and a soft elegant smile. Show the **complete outfit from head to toe** — no cropping at the head or feet. Lighting should be natural daylight with cinematic color grading, rich shadows, and premium fashion magazine aesthetics. The scene must feel luxurious, editorial, and authentic — like a cover shoot for a top Indian fashion magazine or e-commerce campaign.
+
+Combine all of the following visual qualities in one image:
+- **Cinematic** — dramatic soft lighting, rich shadows, premium color grading, atmospheric background depth
+- **Luxury** — polished skin details, designer editorial finish, high-fashion vibe, refined elegance
+- **Traditional Indian** — warm cultural feel, heritage backdrop, authentic ethnic styling, natural Indian beauty
+- **Studio-quality sharpness** — clean sharp details, realistic fabric visibility, perfect focus, no blur
+- **Instagram-worthy aesthetics** — vibrant colors, stylish composition, trendy yet traditional appeal
+
+**Aspect ratio:** 3:4 | **Full body** | **No crop** | **Head to toe** | **Front pose** | **Outdoor fashion shoot** | **DSLR quality** | **High resolution** | **Realistic Indian model** | **Background matched to outfit**
+
+**Negative prompt:**
+blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, duplicate person, cartoon, unrealistic skin, overexposed, underexposed, background noise, watermark, text, logo, indoor studio, fake background, plastic skin, extra fingers
+
+---
+
 ## Final Master Prompt
 
 Create a high-quality, ultra-realistic outdoor fashion photoshoot image of an Indian female model wearing the **exact same kurti, dupatta, and pant design as the provided reference image** (preserve all embroidery, patterns, fabrics, and colors exactly). Automatically analyze the outfit style — if the design is traditional, match the background by selecting the most suitable and beautiful Indian outdoor location that complements the outfit: for example, heritage palaces, forts, stone arches, ancient courtyards, temple steps, ornate city streets, or lush royal gardens. Use natural light with aesthetic, premium DSLR quality. Model should be standing, front-facing, head to toe visible, natural elegant expression, and posed gracefully. Both model and background must look real, sharp, vibrant, and luxurious, as if shot for a top Indian fashion magazine cover. 3:4 aspect ratio, no cut at head or feet.
