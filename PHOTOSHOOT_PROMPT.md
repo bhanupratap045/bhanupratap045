@@ -72,6 +72,76 @@ Trendy Instagram fashion photoshoot of a realistic Indian female model wearing t
 
 ---
 
+## 🎯 Final Prompts — Choose Your Outdoor Background
+
+> Pick the background you want, copy the full prompt below, and paste it into your AI image tool along with your reference product image.
+
+---
+
+### 🏯 Background 1: Heritage Fort / Palace
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a grand Indian heritage fort or palace with majestic stone arches, textured sandstone walls, ornate Rajputana architecture in Jaipur or Udaipur style, warm golden sunlight casting soft shadows. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🌸 Background 2: Royal Garden
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a lush Indian royal garden with ornamental flowering plants, vibrant blooms, manicured hedges, soft golden morning sunlight filtering through greenery, elegant and fresh natural ambiance. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🕌 Background 3: Mughal / Rajputana Architecture
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: stunning Mughal or Rajputana architecture featuring intricately carved jharokhas, white marble or warm sandstone steps, ornate latticed windows, grand arched corridors with rich historical detail. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🛕 Background 4: Temple Courtyard / Ghat
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a serene Indian temple courtyard or riverside ghat with decorative stone carvings, ancient stonework steps, a calm reflective pond or flowing water, warm spiritual ambiance and soft natural light. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🏘️ Background 5: Old City Street
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a charming old Indian city street with colorful vintage doors, antique ornate walls, weathered brick textures, vibrant street character, and soft warm ambient light creating a rich cultural atmosphere. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🌾 Background 6: Sunlit Rural Field
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a beautiful sunlit Indian rural field with golden grass, blooming wildflowers, bright yellow mustard blooms, open blue sky, warm natural sunlight, fresh and breezy countryside atmosphere. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🌆 Background 7: Royal Rooftop Terrace
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a luxurious Indian royal rooftop terrace with a sweeping cityscape or palace panorama in the distance, warm golden sunset or soft morning light, elegant terrace railings or carved parapet walls, rich and atmospheric sky. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
+### 🌺 Background 8: Floral Swing / Wedding Decor
+
+Ultra-realistic, high-quality cinematic outdoor fashion photoshoot of a beautiful Indian female model wearing the **exact same kurti, dupatta, and pant design as the reference product image** — preserve every embroidery detail, fabric texture, color, and pattern exactly. Background: a dreamy outdoor Indian wedding or mehendi-style setting featuring a beautifully decorated floral swing adorned with marigolds, roses, and jasmine garlands, lush flower canopy, romantic warm lighting, festive and celebratory ambiance. Model has natural Indian facial features, graceful front-facing full-body pose, real confident expression, head to toe fully visible, no cropping. Premium DSLR quality, cinematic color grading, luxury fashion magazine editorial feel, sharp focus, high resolution, 3:4 aspect ratio.
+
+**Negative prompt:** blur, low quality, cropped head, cropped feet, extra limbs, deformed face, bad hands, distorted body, cartoon, watermark, text, logo, indoor, fake background, plastic skin
+
+---
+
 ## Popular Indian Outdoor Background Themes
 
 Use any of these iconic Indian locations to complement the traditional outfit:
